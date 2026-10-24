@@ -1,0 +1,5 @@
+Q1: 14c6e21
+Q2: 3
+Q3: git pull. Git must download the teammate commit and merge it before push can be accepted.
+Q4: No. The password stays in the Git history and on GitHub.
+Q5: git branch -d old-fix and git push origin --delete old-fix
